@@ -1,1 +1,2 @@
-# Hola mundo
+# Programa para convertir números enteros a binarios
+
